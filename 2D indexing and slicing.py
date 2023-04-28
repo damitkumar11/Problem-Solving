@@ -1,3 +1,4 @@
+"""
 Problem Description:
 
 Given a M x N array, Perform the following operations:
@@ -17,6 +18,7 @@ Sample Input:
 Sample Output:
 
 [1, 2, 3, 7, 8, 9]
+"""
 
 
 
