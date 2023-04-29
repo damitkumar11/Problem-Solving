@@ -46,4 +46,4 @@ def sort_marks(list2d, j):
     ans = arr2d[sorted_indices_array]
     
     
-    return 
+    return ans
